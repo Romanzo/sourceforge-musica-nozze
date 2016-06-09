@@ -71,8 +71,7 @@ tools:
             - docs
 
 
-    # Runs Scrutinizer's PHP Analyzer Tool
-    # https://scrutinizer-ci.com/docs/tools/php/php-analyzer/config_reference
+    # Runs PHP Analyzer Tool
     php_analyzer:
         enabled:              true
         config:
