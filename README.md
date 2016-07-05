@@ -4,6 +4,10 @@ Pagina del portale in cui descrivo la mia attività musicale come solista e in a
 Il repertorio è ampio ma può essere ulteriormente ampliato e adattato alle vostre esigenze. Si parte dalla musica pop per arrivare a generi musicali ballabili come il latino americano (solamente come DJ). Si passa alla musica regionale, al revival ed agli evergreen.
 ## Formazione dei musicisti
 Si adatteranno perfettamente alla vostre esigenze e potranno espandere la loro formazione in trio (con il supporto di una chitarra elettrica) o anche come completa band per matrimonio.
+
+## Servizio di Wedding Planner su misura
+Per quanto concerne l'organizzazione dell'evento, ci si affida spesso ad una Wedding Planner o, in casi più rari, si organizza tutto da soli affidandosi a guide online più o meno complete che spiegano nei dettagli come contattare i vari fornitori. Su questo aspetto è specializzato <A HREF=http://www.imdb.com/user/ur4315430/>Nozze-Musica</A> che indica varie risorse per organizzare un matrimonio tramite l'aiuto di una Wedding Planner professionista oppure facendo tutto da soli.
+
 ## Servizi per le coppie di sposi
 Si tratta di un team di musicisti professionisti che possono illustrarvi un ampio ventaglio di servizi studiati per voi: dall'intrattenimento dei più piccoli durante gli intervalli tra le portate, alla musica coinvolgente per i più grandi. Non mancherà occasione per aiutare l'atmosfera da festa con luci e altri effetti elettronici.
 ## Svolgimento del servizio
